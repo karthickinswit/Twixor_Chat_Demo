@@ -1,4 +1,4 @@
-name: twixor_chta_demo1
+name: twixor_chat_demo
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   twixor_customer: 
     git: https://github.com/karthickinswit/Twixor_Customer.git
+  
+  
+  
 
 dev_dependencies:
   flutter_test:

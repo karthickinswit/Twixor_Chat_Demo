@@ -1,4 +1,4 @@
-package com.example.twixor_chta_demo1
+package com.example.twixor_chat_demo
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -104,7 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   padding: EdgeInsets.all(15),
                   child: TextField(
                     controller: eId,
-                    obscureText: true,
+                    obscureText: false,
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                       labelText: 'eId',

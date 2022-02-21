@@ -1,6 +1,6 @@
 {
-    "name": "twixor_chta_demo1",
-    "short_name": "twixor_chta_demo1",
+    "name": "twixor_chat_demo",
+    "short_name": "twixor_chat_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

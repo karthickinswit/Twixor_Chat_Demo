@@ -1,4 +1,4 @@
-# twixor_chta_demo1
+# twixor_chat_demo
 
 A new Flutter project.
 
